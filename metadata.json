@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Meal Alert 7 Days",
+  "description": "โปรแกรมตารางอาหารที่สามารถใช้ใยในการจัดตารางอาหารเพื่อคุณ และคนที่คุณรักได้ สะดวกมากขึ้น มีผู้ช่วยaiปรับแต่งตารางอาหาร",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
